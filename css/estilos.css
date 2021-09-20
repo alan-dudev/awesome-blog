@@ -1,8 +1,9 @@
 body{
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Arial";
 
 }
+
 
 h1{
     color:crimson;
@@ -17,14 +18,16 @@ img{
     width: 100px;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> cabecera
 .alineado{
     text-align: left;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+<<<<<<< HEAD
 =======
 .header {
     padding: 60px;
-    text-align: center;
     background: #1abc9c;
     color: white;
     font-size: 30px;
@@ -38,4 +41,6 @@ img{
   .parrafo{
       align-self: flex-end;
   }
+>>>>>>> cabecera
+=======
 >>>>>>> cabecera
