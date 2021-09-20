@@ -16,3 +16,19 @@ img{
     height: 100px;
     width: 100px;
 }
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+
+  .container{
+      display: flex;
+      justify-content: space-around;
+  }
+
+  .parrafo{
+      align-self: flex-end;
+  }
