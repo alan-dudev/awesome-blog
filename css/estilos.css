@@ -16,7 +16,26 @@ img{
     height: 100px;
     width: 100px;
 }
+<<<<<<< HEAD
 .alineado{
     text-align: left;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+=======
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+
+  .container{
+      display: flex;
+      justify-content: space-around;
+  }
+
+  .parrafo{
+      align-self: flex-end;
+  }
+>>>>>>> cabecera
