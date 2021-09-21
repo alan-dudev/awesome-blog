@@ -17,15 +17,10 @@ img{
     height: 100px;
     width: 100px;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> cabecera
+
 .alineado{
     text-align: left;
 }
-<<<<<<< HEAD
-=======
 .header {
     padding: 60px;
     background: #1abc9c;
@@ -41,6 +36,4 @@ img{
   .parrafo{
       align-self: flex-end;
   }
->>>>>>> cabecera
-=======
->>>>>>> cabecera
+
