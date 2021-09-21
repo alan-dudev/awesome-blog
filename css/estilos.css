@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    font-family: "Arial";
+
+}
+
+
+h1{
+    color:crimson;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+
+img{ 
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.alineado{
+    text-align: left;
+}
+.header {
+    padding: 60px;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+
+  .container{
+      display: flex;
+      justify-content: space-around;
+  }
+
+  .parrafo{
+      align-self: flex-end;
+  }
+
