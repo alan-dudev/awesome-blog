@@ -49,3 +49,21 @@ img{
     top: 20px;
 }
 
+.footer{
+    background-color: rgb(29, 83, 83);
+    margin-left: 2px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    
+}
+
+
+.foot-content{
+    position: relative;
+    top: 40%;
+    color: antiquewhite;
+}
+
+.foot-content a{
+    color:bisque;
+}
