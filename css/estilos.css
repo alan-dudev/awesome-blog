@@ -1,5 +1,4 @@
 body{
-    text-align: center;
     font-family: "Arial";
     
 }
@@ -20,7 +19,7 @@ img{
       border: rgb(68, 74, 82) solid 2px;
       width: 600px;
       height: 600px;
-      grid-template-rows: 30% 55%; 
+      grid-template-rows: 30% 50% 20%; 
       box-shadow: 10px 10px  20px grey;
     }
 
@@ -49,3 +48,19 @@ img{
     top: 20px;
 }
 
+
+.footer{
+    background-color: rgb(5, 48, 38);
+    margin-left: 2px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+}
+
+.foot-container { 
+    color: antiquewhite;
+   padding: 50px 150px;
+}
+
+.foot-container a { 
+    color: bisque;
+}
